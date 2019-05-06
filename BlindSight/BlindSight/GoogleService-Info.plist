@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>502435316342-hcmckaoo8r2gfdkea1hsui1j4hi5104q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.502435316342-hcmckaoo8r2gfdkea1hsui1j4hi5104q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbEHe048UZC39DtVmVO50gk2cUERNyBwI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>502435316342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>PCHacks2019.BlindSight</string>
+	<key>PROJECT_ID</key>
+	<string>blindsight-abbab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blindsight-abbab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:502435316342:ios:e6fbf86a8d5b5b79</string>
+	<key>DATABASE_URL</key>
+	<string>https://blindsight-abbab.firebaseio.com</string>
+</dict>
+</plist>
