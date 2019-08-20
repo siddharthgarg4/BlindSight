@@ -8,7 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		077BB3D27CA67A97DDA2ADD4 /* Pods_BlindSight.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 515CA3816AFA698C7598EB86 /* Pods_BlindSight.framework */; };
-		350162FE227EA8D20029C2EE /* VolunteerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 350162FD227EA8D20029C2EE /* VolunteerViewController.swift */; };
+		3532A674230B980900D49E50 /* VolunteerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532A673230B980900D49E50 /* VolunteerViewController.swift */; };
+		3532A676230B98B100D49E50 /* VolunteerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532A675230B98B100D49E50 /* VolunteerViewController.swift */; };
+		3532A677230B98B100D49E50 /* VolunteerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532A675230B98B100D49E50 /* VolunteerViewController.swift */; };
+		3532A678230B98B100D49E50 /* VolunteerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532A675230B98B100D49E50 /* VolunteerViewController.swift */; };
 		3575880C227EB59B0062167B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3575880A227EB59A0062167B /* ViewController.swift */; };
 		3575880D227EB59B0062167B /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3575880B227EB59A0062167B /* Utils.swift */; };
 		35758821227EF7AA0062167B /* CustomMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35758820227EF7AA0062167B /* CustomMarkerView.swift */; };
@@ -58,7 +61,8 @@
 /* Begin PBXFileReference section */
 		072D1E7806F8DA1BC09F74D1 /* Pods-BlindSightUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlindSightUITests.release.xcconfig"; path = "Target Support Files/Pods-BlindSightUITests/Pods-BlindSightUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E5F0033E20BD760859FEC96 /* Pods-BlindSightTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlindSightTests.debug.xcconfig"; path = "Target Support Files/Pods-BlindSightTests/Pods-BlindSightTests.debug.xcconfig"; sourceTree = "<group>"; };
-		350162FD227EA8D20029C2EE /* VolunteerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = VolunteerViewController.swift; path = ../VolunteerViewController.swift; sourceTree = "<group>"; };
+		3532A673230B980900D49E50 /* VolunteerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolunteerViewController.swift; sourceTree = "<group>"; };
+		3532A675230B98B100D49E50 /* VolunteerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolunteerViewController.swift; sourceTree = "<group>"; };
 		3575880A227EB59A0062167B /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3575880B227EB59A0062167B /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		35758820227EF7AA0062167B /* CustomMarkerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMarkerView.swift; sourceTree = "<group>"; };
@@ -150,10 +154,11 @@
 				357588262280E7EC0062167B /* 1.mp3 */,
 				8196E741227E335C00B717FD /* VolunteerSignInViewController.swift */,
 				3575880B227EB59A0062167B /* Utils.swift */,
+				3532A673230B980900D49E50 /* VolunteerViewController.swift */,
 				3575880A227EB59A0062167B /* ViewController.swift */,
 				8196E743227E43A000B717FD /* VolunteerSignUpViewController.swift */,
+				3532A675230B98B100D49E50 /* VolunteerViewController.swift */,
 				35758820227EF7AA0062167B /* CustomMarkerView.swift */,
-				350162FD227EA8D20029C2EE /* VolunteerViewController.swift */,
 				35BD9C13227E6599005777BE /* PreviewView.swift */,
 				35BD9C0F227E6509005777BE /* ObjectRecoginitionViewController.swift */,
 				35EE1793227E001F007F9741 /* Main.storyboard */,
@@ -482,8 +487,9 @@
 				35EE1792227E001F007F9741 /* HomeViewController.swift in Sources */,
 				3575880C227EB59B0062167B /* ViewController.swift in Sources */,
 				35758821227EF7AA0062167B /* CustomMarkerView.swift in Sources */,
-				350162FE227EA8D20029C2EE /* VolunteerViewController.swift in Sources */,
 				3575880D227EB59B0062167B /* Utils.swift in Sources */,
+				3532A674230B980900D49E50 /* VolunteerViewController.swift in Sources */,
+				3532A676230B98B100D49E50 /* VolunteerViewController.swift in Sources */,
 				35EE1790227E001F007F9741 /* AppDelegate.swift in Sources */,
 				8196E744227E43A000B717FD /* VolunteerSignUpViewController.swift in Sources */,
 				35BD9C14227E6599005777BE /* PreviewView.swift in Sources */,
@@ -499,6 +505,7 @@
 				35BD9C19227E66D9005777BE /* Inceptionv3.mlmodel in Sources */,
 				35BD9C11227E6509005777BE /* ObjectRecoginitionViewController.swift in Sources */,
 				35BD9C15227E6599005777BE /* PreviewView.swift in Sources */,
+				3532A677230B98B100D49E50 /* VolunteerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -510,6 +517,7 @@
 				35BD9C1A227E66D9005777BE /* Inceptionv3.mlmodel in Sources */,
 				35BD9C12227E6509005777BE /* ObjectRecoginitionViewController.swift in Sources */,
 				35BD9C16227E6599005777BE /* PreviewView.swift in Sources */,
+				3532A678230B98B100D49E50 /* VolunteerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -676,7 +684,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = PCHacks2019.BlindSight;
+				PRODUCT_BUNDLE_IDENTIFIER = PCHacks2019.BlindSight124;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -695,7 +703,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = PCHacks2019.BlindSight;
+				PRODUCT_BUNDLE_IDENTIFIER = PCHacks2019.BlindSight124;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
