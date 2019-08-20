@@ -1,6 +1,6 @@
 # BlindSight
 
-![image](https://i.ibb.co/KwWRg0K/merge-from-ofoct.jpg)
+![image](http://u.cubeupload.com/coding_ninja24/mergefromofoct.jpg)
 
 ## Inspiration
 
