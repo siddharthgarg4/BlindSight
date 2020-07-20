@@ -1,6 +1,6 @@
 # BlindSight
 
-![image](http://u.cubeupload.com/coding_ninja24/mergefromofoct.jpg)
+![BlindSight](/resources/blindsight-cover.jpg?raw=true"BlindSight")
 
 ## Inspiration
 
